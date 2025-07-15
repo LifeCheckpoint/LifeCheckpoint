@@ -6,7 +6,7 @@
 
 - 🔭 **主要使用** Python, Java, C++, Mathematica
 - 🌱 **正在学习** CUDA, C++, front-end
-- 🖼️ **blog** ![LifeCheckpoints' Blog](https://lifecheckpoint.github.io/)
+- 🖼️ **blog** [LifeCheckpoints' Blog](https://lifecheckpoint.github.io/)
 - 🚧 **About me** MLer
 - 🐛 **Language** 中文, English
 
